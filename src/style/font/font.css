@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'fzfont';
+  src: url('yjsz.ttf?t=1563870518939') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Acens';
+  src: url('Acens.ttf');
+
+}
+@font-face {
+  font-family: 'Arial';
+  src: url('arial.ttf');
+}
+@font-face {
+  font-family: 'SansCN-Bold';
+  src: url('SourceHanSansCN-Bold_0.otf');
+
+}
+.fonr-zero-four{
+  font-family: "fzfont" !important;
+}
+@font-face {
+  font-family: 'regular';
+  src: url('regular.otf');
+
+}
